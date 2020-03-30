@@ -1,0 +1,14 @@
+{
+  "plugins": [
+    {
+      "name": "eshetMain",
+      "options": {}
+    }
+  ],
+
+  "dev": {
+    "paths": [
+      "http://localhost:2311/sites/eshet.com/dist/eshetMain.js"
+    ]
+  }
+}

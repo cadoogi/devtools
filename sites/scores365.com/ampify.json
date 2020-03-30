@@ -1,0 +1,14 @@
+{
+  "plugins": [
+    {
+      "name": "scores365",
+      "options": {}
+    }
+  ],
+
+  "dev": {
+    "paths": [
+      "http://localhost:2311/sites/scores365.com/dist/scores365.js"
+    ]
+  }
+}

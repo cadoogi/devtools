@@ -1,0 +1,14 @@
+{
+  "plugins": [
+    {
+      "name": "vpmentorPlugins",
+      "options": {}
+    }
+  ],
+
+  "dev": {
+    "paths": [
+      "http://localhost:2311/sites/vpnmentor.com/main-plugins/dist/vpmentorPlugins.js"
+    ]
+  }
+}

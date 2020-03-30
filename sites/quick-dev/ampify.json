@@ -1,0 +1,11 @@
+{
+  "plugins": [{
+    "name": "default"
+  }],
+  
+  "dev": {
+    "paths": [
+      "http://localhost:2311/sites/quick-dev/dist/default.js"
+    ]
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "name": "eshet-main",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "scripts": {
+    "prebuild": "trash dist",
+    "build-dev": "webpack -d --watch",
+    "build": "webpack -p"
+  },
+  "devDependencies": {
+    "trash-cli": "^3.0.0",
+    "webpack": "^4.41.6",
+    "webpack-cli": "^3.3.11"
+  }
+}
